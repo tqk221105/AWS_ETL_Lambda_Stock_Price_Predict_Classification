@@ -1,0 +1,15 @@
+.venv/
+
+.git/
+.gitignore
+
+__pycache__/
+.env
+.vscode/
+
+tests/
+run_local_test.py
+collect_data_script/
+data/
+
+*.md
