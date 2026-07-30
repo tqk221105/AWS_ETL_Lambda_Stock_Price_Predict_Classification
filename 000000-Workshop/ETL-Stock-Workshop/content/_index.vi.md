@@ -27,7 +27,7 @@ chapter: false
 
 &emsp; **Thời gian thực hiện:** Từ ngày 08/06/2026 đến ngày 31/07/2026
 
-![Ảnh đại diện sinh viên](/images/avatar.jpg?width=25pc&classes=shadow)
+![Ảnh đại diện sinh viên](../images/avatar.jpg?width=25pc&classes=shadow)
 
 ## Tổng quan dự án
 

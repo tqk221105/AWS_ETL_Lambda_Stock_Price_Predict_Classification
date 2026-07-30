@@ -27,7 +27,7 @@ chapter: false
 
 &emsp; **Project duration:** From 08/06/2026 to 31/07/2026
 
-![Student profile picture](/images/avatar.jpg?width=25pc&classes=shadow)
+![Student profile picture](images/avatar.jpg?width=25pc&classes=shadow)
 
 ## Project overview
 
